@@ -1,4 +1,4 @@
-👋 😄 Hi, I'm Abbas Hyder Naqvi!
+👋 😄 Hi, I'm Abbas Hyder Naqvi!                                                                                                                                        
 🥳 I’m a fan of SQL, Excel & Tableau
 📈 I’m a Data Analyst committed to continuous learning and insightful interpretations of data
 🔗 You can view more about me here:
